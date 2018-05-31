@@ -1,0 +1,17 @@
+{
+  "name": "mixer-chatbot",
+  "version": "1.0.0",
+  "description": "A simplified Mixer chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tje",
+  "license": "ISC",
+  "dependencies": {
+    "beam-client-node": "^2.0.0",
+    "carina": "^0.11.0",
+    "ws": "^5.2.0"
+  }
+}
